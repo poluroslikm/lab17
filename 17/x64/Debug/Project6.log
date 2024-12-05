@@ -1,0 +1,7 @@
+﻿  FileName.c
+C:\Users\student\Desktop\17\FileName.c(22,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\student\Desktop\17\FileName.c(58,24): warning C4028: формальный параметр 1 отличается от объявления
+C:\Users\student\Desktop\17\FileName.c(65,41): warning C4133: return: несовместимые типы - из "int *" в "double *"
+C:\Users\student\Desktop\17\FileName.c(66,21): warning C4133: =: несовместимые типы - из "int *" в "double *"
+C:\Users\student\Desktop\17\FileName.c(249): warning C4716: lab17task1: должна возвращать значение
+  Project6.vcxproj -> C:\Users\student\Desktop\17\x64\Debug\Project6.exe
